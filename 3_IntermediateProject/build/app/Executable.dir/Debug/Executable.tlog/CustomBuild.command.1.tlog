@@ -1,0 +1,10 @@
+^C:\STUDY\UDEMYCMAKE\2_CMAKE\3_INTERMEDIATEPROJECT\APP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Study/UdemyCmake/2_CMake/3_IntermediateProject -BC:/Study/UdemyCmake/2_CMake/3_IntermediateProject/build --check-stamp-file C:/Study/UdemyCmake/2_CMake/3_IntermediateProject/build/app/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

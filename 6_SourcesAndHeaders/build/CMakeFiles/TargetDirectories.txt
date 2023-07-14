@@ -1,0 +1,4 @@
+C:/Study/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/CMakeFiles/ALL_BUILD.dir
+C:/Study/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/CMakeFiles/ZERO_CHECK.dir
+C:/Study/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/src/CMakeFiles/MyLib.dir
+C:/Study/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/app/CMakeFiles/Executable.dir

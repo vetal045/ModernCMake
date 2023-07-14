@@ -1,0 +1,10 @@
+^C:\STUDY\UDEMYCMAKE\2_CMAKE\1_HELLOWORLD\BUILD\CMAKEFILES\1C0233F3FF5B1385D941E11AD7702737\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Study/UdemyCmake/2_CMake/1_HelloWorld -BC:/Study/UdemyCmake/2_CMake/1_HelloWorld/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Study/UdemyCmake/2_CMake/1_HelloWorld/build/CppProjectTemplate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

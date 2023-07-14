@@ -1,0 +1,3 @@
+C:/Study/UdemyCmake/2_CMake/1_HelloWorld/build/CMakeFiles/Executable.dir
+C:/Study/UdemyCmake/2_CMake/1_HelloWorld/build/CMakeFiles/ALL_BUILD.dir
+C:/Study/UdemyCmake/2_CMake/1_HelloWorld/build/CMakeFiles/ZERO_CHECK.dir

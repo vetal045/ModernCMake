@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Study\UdemyCmake\2_CMake\6_SourcesAndHeaders\src\MyLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Study\UdemyCmake\2_CMake\6_SourcesAndHeaders\src\MyLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Study\UdemyCmake\2_CMake\6_SourcesAndHeaders\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{895EBC30-3B83-3E62-B49C-A973170B88E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A9F69948-D8FA-332D-8CBF-B4D999B48C72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

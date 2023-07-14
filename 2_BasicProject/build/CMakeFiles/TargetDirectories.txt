@@ -1,0 +1,4 @@
+C:/Study/UdemyCmake/2_CMake/2_BasicProject/build/CMakeFiles/MyLib.dir
+C:/Study/UdemyCmake/2_CMake/2_BasicProject/build/CMakeFiles/Executable.dir
+C:/Study/UdemyCmake/2_CMake/2_BasicProject/build/CMakeFiles/ALL_BUILD.dir
+C:/Study/UdemyCmake/2_CMake/2_BasicProject/build/CMakeFiles/ZERO_CHECK.dir
