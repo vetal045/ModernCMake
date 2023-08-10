@@ -1,5 +1,0 @@
-C:/Study/UdemyCmake/2_CMake/7_ExternalGit/build/CMakeFiles/ALL_BUILD.dir
-C:/Study/UdemyCmake/2_CMake/7_ExternalGit/build/CMakeFiles/ZERO_CHECK.dir
-C:/Study/UdemyCmake/2_CMake/7_ExternalGit/build/externals/json/CMakeFiles/ALL_BUILD.dir
-C:/Study/UdemyCmake/2_CMake/7_ExternalGit/build/src/CMakeFiles/MyLib.dir
-C:/Study/UdemyCmake/2_CMake/7_ExternalGit/build/app/CMakeFiles/Executable.dir

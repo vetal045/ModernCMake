@@ -1,4 +1,0 @@
-C:/Study/UdemyCmake/2_CMake/5_ConfigureFile/build/CMakeFiles/ALL_BUILD.dir
-C:/Study/UdemyCmake/2_CMake/5_ConfigureFile/build/CMakeFiles/ZERO_CHECK.dir
-C:/Study/UdemyCmake/2_CMake/5_ConfigureFile/build/src/CMakeFiles/MyLib.dir
-C:/Study/UdemyCmake/2_CMake/5_ConfigureFile/build/app/CMakeFiles/Executable.dir
